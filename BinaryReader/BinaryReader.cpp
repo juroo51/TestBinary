@@ -3,7 +3,7 @@
 
 int main()
 {
-	int a;
+	int a, v;
 	BinaryOps binaryops;
 	binaryops.run();
 	system("pause");
